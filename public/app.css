@@ -1,0 +1,14 @@
+body {
+    background-color: #fff;
+    color: #222;
+    max-width: 600px;
+    margin: auto;
+    line-height: 2rem;
+    text-transform: capitalize;
+}
+
+article+article {
+    margin-top: 50px;
+    padding-top: 50px;
+    border-top: 2px solid #222;
+}
